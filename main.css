@@ -1,0 +1,22 @@
+ body {
+     background-color: #F9659D;
+ }
+ 
+ p {
+     text-align: center
+ }
+ 
+ h1 {
+     font-family: sans-serif;
+     font-size-adjust: auto;
+     text-align: center;
+     color: #F9F7E4
+ }
+ 
+ h2 {
+     text-align: right
+ }
+
+.ball {text-align: center;
+margin:0 auto;
+}
