@@ -16,6 +16,12 @@
  h2 {
      text-align: right
  }
+h3 {
+    font-family: sans-serif;
+     font-size: 300%;
+     text-align: center;
+     color: #F9F7E4
+}
 
 .ball {text-align: center;
 margin:0 auto;
